@@ -1,0 +1,15 @@
+==========================================================
+  Codename: Hooyator
+==========================================================
+
+ This is only node.js technology test, no game yet at all
+
+ Running:
+
+ Start both COMET server and autobot daemon
+
+ * node server.js
+ * node autobot.js 
+
+ Open http://localhost:8000
+
